@@ -16,7 +16,7 @@
 | 11     |not_periquito # 8194   | completed lesson one   | [parakeet1.github.io]    |
 | 12     | IsBємsh👽C94´#0467     | completed lesson one   |[IsBemsho.github.io]      |
 | 12     | liam05 #5013          | completed lesson one   |[isata23677.github.io]    |
-[coranos.github.io]: https://coranos.github.io/
+| 13| @Geysel#7366|  finalizada  leccion 1 | [Geysel2902.github.io]
 [mayrapina007.github.io]: https://mayrapina007.github.io/
 [not-idol.github.io]: https://not-idol.github.io/
 [acidlee.github.io]: https://acidlee.github.io/
